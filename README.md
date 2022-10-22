@@ -1,4 +1,4 @@
-## Thanks for visiting my website, my name is Chinamay! 😄
+## Thanks for visiting my profile, my name is Chinamay! 😄
 
 ![banner](https://user-images.githubusercontent.com/40129107/197323253-b1768ff5-2d69-4c1d-a30a-936702313adb.png)
 
