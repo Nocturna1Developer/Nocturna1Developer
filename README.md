@@ -5,7 +5,7 @@
 I am interested in Game Development, AWS, Data Analysis, and the latest technologies that are being invented.
 
 ### Social account: 📫
-The best way to contact me is my connecting with me on Linkedin. 😄
+The best way to contact me is by connecting with me on Linkedin. 😄
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chinamay-k-ba7242173/)
 ---
