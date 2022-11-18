@@ -2,7 +2,7 @@
 ---
 
 ### About me: ⏩
-I am interested in Game Development, AWS, Full Stack, Data Analysis, and the latest technologies that are being invented.
+I am interested in Game Development, AWS, Full Stack, and the latest technologies that are being invented.
 
 ### Social account: 📫
 The best way to contact me is by connecting with me on Linkedin. 😄
