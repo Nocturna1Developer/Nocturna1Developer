@@ -1,16 +1,17 @@
-## Thanks for visiting my profile, my name is Chinamay! 😄
----
+## Hello! 👋 Thank you for visiting my profile, my name is Chinamay! 😄
+### I am interested in 💻 Game Development, AWS, Full Stack Development! 🔍 I am looking for Full-Time roles
 
-### About me: ⏩
-I am interested in Game Development, AWS, Full Stack, and the latest technologies that are being invented.
+## My Skills (Tech Stack) ⚡
+- **Programming Language -**  Python | C# | Java | JavaScript - ReactJS, NextJS | MATLAB | Latex | HTML | CSS - Tailwind | C++
+- **Tools and Technologies -** Unity | Git | Amazon Web Services (AWS) | MongoDB | SQL | Firebase | Pandas | Matplotlib | Numpy | Unreal Engine 4
+- **Certifications -** AWS Certified Solutions Architect – Associate | Nanodegree: Deep Learning | Nanodegree: Self Driving Car
 
-### Social account: 📫
-The best way to contact me is by connecting with me on Linkedin. 😄
+## Social account: 📫
+### The best way to contact me is by connecting with me on Linkedin. 😄
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/chinamay-k-ba7242173/)
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chinamay-k-ba7242173/)
----
-### Please check out the following: ⚡
----
+
+## Please check out the following: 👇
 <!--
 ![Github Skyline](https://user-images.githubusercontent.com/40129107/197323454-6fcf17b3-c367-43dc-9454-7ab909f35203.gif)
 -->
