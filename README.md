@@ -7,7 +7,7 @@
 - **Certifications -** AWS Certified Solutions Architect – Associate | Nanodegree: Deep Learning | Nanodegree: Self Driving Car
 
 ## My Hobbies ⚡
-- **Hobbies:** Hiking | Badminton | Meditation
+- Hiking | Badminton | Meditation
 
 ## Social account: 📫
 ### The best way to contact me is by connecting with me on Linkedin. 😄
