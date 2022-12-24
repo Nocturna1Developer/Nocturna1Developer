@@ -2,9 +2,12 @@
 ### I am interested in 💻 Game Development, AWS, Full Stack Development! 🔍 I am looking for Full-Time roles
 
 ## My Skills (Tech Stack) ⚡
-- **Programming Language -**  Python | C# | Java | JavaScript - ReactJS, NextJS | MATLAB | Latex | HTML | CSS - Tailwind | C++
-- **Tools and Technologies -** Unity | Git | Amazon Web Services (AWS) | MongoDB | SQL | Firebase | Pandas | Matplotlib | Numpy | Unreal Engine 4
+- **Programming Language -**  Python | C# | Java | JavaScript - ReactJS, NextJS | HTML | CSS - Tailwind | C++ | MATLAB | Latex
+- **Tools and Technologies -** Unity | Git | Amazon Web Services (AWS) | MongoDB | SQL | Firebase | Formik | Redux | Unreal Engine 4
 - **Certifications -** AWS Certified Solutions Architect – Associate | Nanodegree: Deep Learning | Nanodegree: Self Driving Car
+
+## My Hobbies ⚡
+- **Hobbies:** Hiking | Badminton | Meditation
 
 ## Social account: 📫
 ### The best way to contact me is by connecting with me on Linkedin. 😄
