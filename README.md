@@ -3,8 +3,8 @@
 Check out my website protfolio: 👉 https://nocturnaldeveloper.wixsite.com/nocturnal-developer
 
 ## My Skills (Tech Stack) ⚡
-- **Languages:** Python, JavaScript (React, Node, Vue), TypeScript, HTML, CSS (Tailwind, SASS), SQL, GraphQL
-- **Technologies:** Django, Flask, Svelte, Next.js, AWS, Redux, MySQL, PostgreSQL, MongoDB, Kubernetes, Firebase
+- **Languages:** C#, Lua, Python, JavaScript (React, Node, Vue), TypeScript, HTML, CSS (Tailwind, SASS), SQL, GraphQL
+- **Technologies:** Unity, Unreal Engine, Photon, Mirror, Oculus, Supabase, Django, Flask, Svelte, Next.js, AWS, Redux, MySQL, PostgreSQL, MongoDB, Kubernetes, Firebase
 - **Tools:** Git, Docker, Jira, Trello, Jenkins, Jest, Cypress
 
 - **Awards & Honors:** President’s Scholar, Dean’s Scholar, Honor List, Magna Cum Laude
