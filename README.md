@@ -3,11 +3,17 @@
 Check out my website protfolio: 👉 https://nocturnaldeveloper.wixsite.com/nocturnal-developer
 
 ## My Skills (Tech Stack) ⚡
-- **Languages:** Python  |  C#  |  Java  |  C++  |  JavaScript - ReactJS  |  HTML  |  CSS  |  MATLAB 
-- **Tools/Technologies:** Unity  |  Git  |  AWS  |  MongoDB  |  SQL  |  Firebase  |  Redux  |  Unreal Engine  |  Trello  |  Jira
-- **Certifications:** AWS Certified Solutions Architect – Associate  |  Nanodegree: Deep Learning  |  Nanodegree: Self-Driving Car   
+- **Languages:** Python, JavaScript (React, Node, Vue), TypeScript, HTML, CSS (Tailwind, SASS), SQL, GraphQL
+- **Technologies:** Django, Flask, Svelte, Next.js, AWS, Redux, MySQL, PostgreSQL, MongoDB, Kubernetes, Firebase
+- **Tools:** Git, Docker, Jira, Trello, Jenkins, Jest, Cypress
+
+- ***Awards & Honors:** President’s Scholar, Dean’s Scholar, Honor List, Magna Cum Laude
+- **Certifications:** AWS Certified Solutions Architect – Associate, Nanodegree: Deep Learning, Nanodegree: Self-Driving Car
 
 ## My Hobbies ⚡
+- **Hobbies:** Badminton, Meditation, Reading, Hackathons
+
+
 - Hiking  |  Badminton  |  Meditation 
 
 ## Social account: 📫
