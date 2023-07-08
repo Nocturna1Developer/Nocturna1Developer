@@ -13,9 +13,6 @@ Check out my website protfolio: 👉 https://nocturnaldeveloper.wixsite.com/noct
 ## My Hobbies ⚡
 - **Hobbies:** Badminton, Meditation, Reading, Hackathons
 
-
-- Hiking  |  Badminton  |  Meditation 
-
 ## Social account: 📫
 ### The best way to contact me is by connecting with me on Linkedin. 😄
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/chinamay-k-ba7242173/)
