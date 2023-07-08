@@ -7,7 +7,7 @@ Check out my website protfolio: 👉 https://nocturnaldeveloper.wixsite.com/noct
 - **Technologies:** Django, Flask, Svelte, Next.js, AWS, Redux, MySQL, PostgreSQL, MongoDB, Kubernetes, Firebase
 - **Tools:** Git, Docker, Jira, Trello, Jenkins, Jest, Cypress
 
-- ***Awards & Honors:** President’s Scholar, Dean’s Scholar, Honor List, Magna Cum Laude
+- **Awards & Honors:** President’s Scholar, Dean’s Scholar, Honor List, Magna Cum Laude
 - **Certifications:** AWS Certified Solutions Architect – Associate, Nanodegree: Deep Learning, Nanodegree: Self-Driving Car
 
 ## My Hobbies ⚡
