@@ -1,11 +1,11 @@
 
-# 🎮 **Welcome to My World of Code and Creativity** 🌟
+# 🌟 **Why are we here?** 🌟
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=Game+Developer+%7C+Software+Engineer;Building+Immersive+Experiences;Always+Learning+%26+Growing" alt="Typing Animation" />
 </p>
 
-Hi there! I'm **[Your Name]**, a passionate **Game Developer** and **Software Engineer** with a love for building immersive experiences and robust systems. This repository is a glimpse into my journey, projects, and the tools I use to bring ideas to life.
+Hi there! I'm Nokturnal, a passionate **Game Developer** and **Software Engineer** with a love for building immersive experiences and robust systems. This repository is a glimpse into my journey, projects, and the tools I use to bring ideas to life.
 
 ---
 
@@ -15,7 +15,7 @@ I thrive at the intersection of art and technology, crafting games and software 
 
 - 🔧 **Skills**: Game Development (Unity, Unreal Engine), C#, C++, Python, JavaScript, Full-Stack Development, DevOps, and more.
 - 🎨 **Passions**: Game design, interactive storytelling, procedural generation, and AI-driven experiences.
-- 🌱 **Learning**: Always exploring new tools, frameworks, and techniques to level up my craft.
+- 🌱 **Learning**: Always exploring new tools, frameworks, and techniques to level up my craft. (How generic is that am I right? But its true)
 
 
 
