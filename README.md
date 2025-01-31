@@ -15,7 +15,7 @@ I thrive at the intersection of art and technology, crafting games and software 
 
 - 🔧 **Skills**: Game Development (Unity, Unreal Engine), C#, C++, Python, JavaScript, Full-Stack Development, DevOps, and more.
 - 🎨 **Passions**: Game design, interactive storytelling, procedural generation, and AI-driven experiences.
-- 🌱 **Learning**: Always exploring new tools, frameworks, and techniques to level up my craft. (How generic is that am I right? But its true)
+- 🌱 **Learning**: Always exploring new tools, frameworks, and techniques to level up my craft. (How generic is that??)
 
 
 
@@ -23,15 +23,9 @@ I thrive at the intersection of art and technology, crafting games and software 
 
 Here’s a glimpse of the tools and technologies I use:
 
-### **Game Development**
-- **Engines**: Unity, Unreal Engine, Godot
-- **Languages**: C#, C++, Blueprints
-- **Tools**: Blender, Substance Painter, FMOD
-
-### **Software Engineering**
-- **Languages**: Python, JavaScript, TypeScript, Go
-- **Frameworks**: React, Node.js, Django, Flask
-- **DevOps**: Docker, Kubernetes, AWS, GitHub Actions
+Languages: Python, JavaScript (React, Node, Vue, ThreeJS), TypeScript, HTML, CSS (Tailwind, SASS), C#, C++, SQL
+Technologies: Firebase, Supabase, Django, Flask, Svelte, Next.js, AWS, Redux, MySQL, PostgreSQL, MongoDB, Kubernetes
+Tools: Docker, Jenkins, Jest, Cypress, Git, Jira, Unity, Unreal Engine, OpenAI
 ---
 
 <p align="center">
