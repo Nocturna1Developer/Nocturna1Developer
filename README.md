@@ -23,9 +23,9 @@ I thrive at the intersection of art and technology, crafting games and software 
 
 Here’s a glimpse of the tools and technologies I use:
 
-Languages: Python, JavaScript (React, Node, Vue, ThreeJS), TypeScript, HTML, CSS (Tailwind, SASS), C#, C++, SQL
-Technologies: Firebase, Supabase, Django, Flask, Svelte, Next.js, AWS, Redux, MySQL, PostgreSQL, MongoDB, Kubernetes
-Tools: Docker, Jenkins, Jest, Cypress, Git, Jira, Unity, Unreal Engine, OpenAI
+- **Languages**: Python, JavaScript (React, Node, Vue, ThreeJS), TypeScript, HTML, CSS (Tailwind, SASS), C#, C++, SQL
+- **Technologies**: Firebase, Supabase, Django, Flask, Svelte, Next.js, AWS, Redux, MySQL, PostgreSQL, MongoDB, Kubernetes
+- **Tools**: Docker, Jenkins, Jest, Cypress, Git, Jira, Unity, Unreal Engine, OpenAI
 ---
 
 <p align="center">
