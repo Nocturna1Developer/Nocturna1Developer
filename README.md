@@ -13,9 +13,9 @@ Hi there! I'm Nokturnal, a passionate **Game Developer** and **Software Engineer
 
 I thrive at the intersection of art and technology, crafting games and software that are not only functional but also delightful to use. With a strong foundation in programming, design, and problem-solving, I aim to create experiences that resonate with users and push the boundaries of innovation.
 
-- 🔧 **Skills**: Simulation Developer, Backend, Game Development (Unity, Unreal Engine), C#, C++, Python, JavaScript, Full-Stack Development, DevOps, and more.
-- 🎨 **Passions**: Game design, interactive storytelling, procedural generation, and AI-driven experiences.
-- 🌱 **Learning**: Always exploring new tools, frameworks, and techniques to level up my craft. (How generic is that??)
+- **Skills**: Simulation Developer, Backend, Game Development (Unity, Unreal Engine), C#, C++, Python, JavaScript, Full-Stack Development, DevOps, and more.
+- **Passions**: Game design, interactive storytelling, procedural generation, and AI-driven experiences.
+- **Learning**: Always exploring new tools, frameworks, and techniques to level up my craft. (How generic is that??)
 
 
 
