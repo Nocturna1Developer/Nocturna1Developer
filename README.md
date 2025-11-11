@@ -1,5 +1,5 @@
 
-# 🌟 **Why are we here?** 🌟
+# **Why are we here?** 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=Game+Developer+%7C+Software+Engineer;Building+Immersive+Experiences;Always+Learning+%26+Growing" alt="Typing Animation" />
@@ -13,7 +13,7 @@ Hi there! I'm Nokturnal, a passionate **Game Developer** and **Software Engineer
 
 I thrive at the intersection of art and technology, crafting games and software that are not only functional but also delightful to use. With a strong foundation in programming, design, and problem-solving, I aim to create experiences that resonate with users and push the boundaries of innovation.
 
-- 🔧 **Skills**: Game Development (Unity, Unreal Engine), C#, C++, Python, JavaScript, Full-Stack Development, DevOps, and more.
+- 🔧 **Skills**: Simulation Developer, Backend, Game Development (Unity, Unreal Engine), C#, C++, Python, JavaScript, Full-Stack Development, DevOps, and more.
 - 🎨 **Passions**: Game design, interactive storytelling, procedural generation, and AI-driven experiences.
 - 🌱 **Learning**: Always exploring new tools, frameworks, and techniques to level up my craft. (How generic is that??)
 
