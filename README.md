@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=Game+Developer+%7C+Software+Engineer;Building+Immersive+Experiences;Always+Learning+%26+Growing" alt="Typing Animation" />
 </p>
 
-Hi there! I'm Nokturnal, a passionate **Game Developer** and **Software Engineer** with a love for building immersive experiences and robust systems. This repository is a glimpse into my journey, projects, and the tools I use to bring ideas to life.
+Hi there! I'm Nokturnal, a passionate **Software Engineer** with a love for building immersive experiences and robust systems. This repository is a glimpse into my journey, projects, and the tools I use to bring ideas to life.
 
 ---
 
